@@ -1,0 +1,4 @@
+This is a chatbot which I'm still developing.  It uses the Neo4j 
+open source graph database for knowledge representation, and a simple 
+user-defined mapping of patterns to graph operations.  There is no
+response production yet.
